@@ -1,5 +1,7 @@
 // event.js
 // This script validates two dates and calculates the number of days between them.
+// It also contains a number of Javascript and/or reference errors.  Please go through the code
+// and try to find and correct them.
 
 // Function called when the form is submitted.
 // Function processes the dates and returns false.
